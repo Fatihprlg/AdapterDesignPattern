@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bzitN9sAEEt5o74uvY4JOuySd1R1g/8lTE0yyrpq3s4q0+ZcX3LRe8CShWV5wHVNWXBtALFHEdRcPvq+dwSy5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fatih\\source\\repos\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

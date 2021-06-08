@@ -1,0 +1,13 @@
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.exe
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.deps.json
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.runtimeconfig.json
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.runtimeconfig.dev.json
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.dll
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.pdb
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.dll
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.pdb
+C:\Users\Fatih\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.genruntimeconfig.cache
